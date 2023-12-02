@@ -67,7 +67,7 @@
                 - Manually deployment
                 - Import from Github
 
-###  We are going to use 'Continous Deployment'
+###  We are going to use 'Continuous Deployment'
         - Go to Netlify
         - Sign Up/In with Github
         - Select Import from Github
