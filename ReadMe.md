@@ -1,4 +1,4 @@
-# How to convert a web from HTML/CSS/VanillaJS to React JS ?
+#How to convert a web from HTML/CSS/VanillaJS to React JS ?
 
 ### Create a React app using 'cra' command
     Open Terminal:
